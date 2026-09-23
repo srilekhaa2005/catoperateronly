@@ -1,0 +1,9 @@
+id,name,employee_code,preferred_language,role,experience_years
+1,Ananya Kumar,OP-1001,ta,operator,4.8
+2,Suresh Iyer,OP-1002,ta,operator,16.1
+3,Ananya Rao,OP-1003,en,operator,2.1
+4,Priya Kumar,OP-1004,ta,operator,13.0
+5,Karthik Rao,OP-1005,en,operator,10.8
+6,Raj Nair,OP-1006,ta,operator,6.5
+7,Suresh Reddy,OP-1007,hi,operator,6.4
+8,Ananya Rao,OP-1008,en,supervisor,15.3

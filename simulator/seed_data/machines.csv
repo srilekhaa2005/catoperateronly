@@ -1,0 +1,7 @@
+id,machine_code,machine_type,model,status
+1,EXC-201,excavator,CAT 315,active
+2,DOZ-202,dozer,CAT D8T,active
+3,LOA-203,loader,CAT 950,active
+4,GRA-204,grader,CAT 140,idle
+5,EXC-205,excavator,CAT 315,idle
+6,DOZ-206,dozer,CAT D6,maintenance
