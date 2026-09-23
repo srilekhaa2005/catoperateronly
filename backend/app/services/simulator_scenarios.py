@@ -1,0 +1,1 @@
+SCENARIO_NAMES = ["normal", "hydraulic_overheat", "excessive_idle", "low_hydraulic_pressure", "high_fuel_consumption", "unusual_vibration", "seatbelt_unfastened", "proximity_warning", "proximity_critical"]
